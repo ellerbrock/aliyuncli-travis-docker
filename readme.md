@@ -1,7 +1,10 @@
 ![alibaba cloud aliyuncli github travis](https://upload.wikimedia.org/wikipedia/commons/4/40/Alibaba-cloud-logo-grey-2-01.png)
 
-# Alibaba Cloud Infrastructure as Code Quickstart [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
+# Alibaba Cloud Infrastructure as Code Quickstart [![Docker Automated Build](https://img.shields.io/docker/automated/ellerbrock/alpine-aliyuncli.svg)](https://hub.docker.com/r/ellerbrock/alpine-aliyuncli/) [![Docker Pulls](https://img.shields.io/docker/pulls/ellerbrock/alpine-aliyuncli.svg)](https://hub.docker.com/r/ellerbrock/alpine-aliyuncli/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+- Official Repository: [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli)
+- Docker Hub Repository: [ellerbrock/alpine-aliyuncli](https://hub.docker.com/r/ellerbrock/alpine-aliyuncli/)
+- Docker Build Repository: [ellerbrock/docker-collection](https://github.com/ellerbrock/docker-collection/blob/master/dockerfiles/alpine-aliyuncli/)
 
 ## What you need
 
